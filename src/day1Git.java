@@ -6,5 +6,6 @@ public class day1Git {
         System.out.println("Hello  git 3. Deneme");
         System.out.println("Hello  git 4. Deneme");
         System.out.println("Hello  git clone sonrası. Deneme");
+        System.out.println("Hello  git clone sonrası 2. Deneme");
     }
 }
